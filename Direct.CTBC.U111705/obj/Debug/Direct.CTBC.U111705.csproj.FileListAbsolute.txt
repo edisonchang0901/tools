@@ -1,0 +1,5 @@
+C:\Users\forma\Documents\Visual Studio 2013\Projects\Direct.CTBC.U111705\Direct.CTBC.U111705\bin\Debug\Direct.CTBC.U111705.dll
+C:\Users\forma\Documents\Visual Studio 2013\Projects\Direct.CTBC.U111705\Direct.CTBC.U111705\bin\Debug\Direct.CTBC.U111705.pdb
+C:\Users\forma\Documents\Visual Studio 2013\Projects\Direct.CTBC.U111705\Direct.CTBC.U111705\obj\Debug\Direct.CTBC.U111705.csprojResolveAssemblyReference.cache
+C:\Users\forma\Documents\Visual Studio 2013\Projects\Direct.CTBC.U111705\Direct.CTBC.U111705\obj\Debug\Direct.CTBC.U111705.dll
+C:\Users\forma\Documents\Visual Studio 2013\Projects\Direct.CTBC.U111705\Direct.CTBC.U111705\obj\Debug\Direct.CTBC.U111705.pdb
